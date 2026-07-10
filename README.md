@@ -2,7 +2,7 @@
 
 Summary of this project :
 
-The Chatbot have only few commands :
+The Chatbot have only few commands :<br>
   -> Hello <br>
   -> Flip a coin <br>
   -> Today's date <br>
