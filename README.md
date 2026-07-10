@@ -3,10 +3,10 @@
 Summary of this project :
 
 The Chatbot have only few commands :
-  -> Hello
-  -> Flip a coin
-  -> Today's date
-  -> Roll a dice 
+  -> Hello <br>
+  -> Flip a coin <br>
+  -> Today's date <br>
+  -> Roll a dice  <br>
 The bot only give answers for the above commands only , rest it will sorry.
 
 This was the intial step towards learning HTML, CSS, Js, React .
